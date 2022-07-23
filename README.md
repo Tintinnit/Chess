@@ -1,2 +1,3 @@
 # Chess
-Chess
+Coded in Java
+
